@@ -1,5 +1,3 @@
-# python-projects
-working with friends
+# Python3 practice
 
-
-filename = yourfile name
+Practicing Py3
